@@ -11,33 +11,33 @@
 7   | spare                | اجتنب
 8   | regret               | يندم
 9   | turn over            | سلم
-10  | 
-11  | 
-12  | 
-13  | 
-14  | 
-15  | 
-16  | 
-17  | 
-18  | 
-19  | 
-20  | 
-21  | 
-22  | 
-23  | 
-24  | 
-25  | 
-26  | 
-27  | 
-28  | 
-29  | 
-30  | 
-31  | 
-32  | 
-33  | 
-34  | 
-35  | 
-36  | 
+10  | interpreter          | مترجم
+11  | smallpox             | جدري
+12  | communion            | شركة
+13  | magnificent          | رائع
+14  | endowment            | منحة أو هبة
+15  | folks                | الناس
+16  | plaque               | لوح تذكاري من المعدن
+17  | fellow               | زميل
+18  | blunt man            | رجل فظ
+19  | frankly              | بصراحة
+20  | bullshit             | هراء
+21  | squeeze              | يعصر
+22  | despise              | يحتقر
+23  | masquerade           | تنكر
+24  | pose                 | يتظاهر
+25  | hypocrisy            | نفاق / رياء
+26  | delightful           | مبهج
+27  | cracker              | رقائق
+28  | chop                 | يقطع أو يفرم
+29  | canapé               | سليزونات
+30  | peas                 | بازلاء
+31  | lobby                | ردهة / عادة عند المدخل
+32  | Anisette             | خمرة باليانسون
+33  | attorney             | الوكيل
+34  | instructed           | تعليمات
+35  | deported             | ترحيل
+36  | Tarantella           | رقصة شعبية إيطالية
 37  | 
 38  | 
 39  | 
